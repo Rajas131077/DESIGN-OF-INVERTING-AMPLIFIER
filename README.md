@@ -38,10 +38,20 @@ Inverting amplifier:
 ## MODEL GRAPH:
 <img width="368" height="284" alt="image" src="https://github.com/user-attachments/assets/d2081f1e-57d1-4cd0-b59a-5ebb4115733d" />
 
-## TABULATION:
+#DIAGRAM
+<img width="778" height="575" alt="image" src="https://github.com/user-attachments/assets/0253a33c-50c0-43ea-95cf-f4f2c8e4e23a" />
 
+<img width="737" height="332" alt="image" src="https://github.com/user-attachments/assets/63cfa43d-d7f8-444c-8b2c-954febbe21c1" />
 
-## GRAPH:
+<img width="736" height="483" alt="image" src="https://github.com/user-attachments/assets/5380b076-4b9d-45e7-b8d9-8199e76c7797" />
+
+<img width="751" height="335" alt="image" src="https://github.com/user-attachments/assets/233ff4d5-df35-4821-b963-0cbbf16a4f50" />
+
+<img width="739" height="387" alt="image" src="https://github.com/user-attachments/assets/ea970b1d-bca4-4c3f-932d-93aef1590e92" />
+
+<img width="609" height="287" alt="image" src="https://github.com/user-attachments/assets/8eaa622e-7415-4a8a-b78a-4108d1231807" />
 
 
 ## RESULT:
+
+Thus the LT Spice tool has been studied and non-inverting ,inverting,differential amplifier circuit is stimulated.
